@@ -2,6 +2,10 @@
 
 I used to make tons of ROBLOX games. This is one of them.
 
+<div align="center">
+    <img src="../assets/showcase0.png" alt="Game image" width="800">
+</div>
+
 *The Baseplate* is inspired by games like *Plates of Fate* and *Horrific Housing*, which I used to play extensively with friends. The general idea behind those games is that of completely random chaos. Every 20 seconds or so, a new "event" is spawned, which spices up the game in some way. Like, an event may cause meteors to rain down, spawn zombies, give everyone weapons, or something harmless like adding party lights to the map. Eventually, the endless barrage of events is meant to make the survivor count slowly dwindle until one person is crowned the winner. Okay, simple.
 
 But I wanted to take that a little further.
@@ -11,6 +15,10 @@ But I wanted to take that a little further.
 This statement is a bit inaccurate. Those games are very chaotic. But, in a way, they don't reach their full chaos potential. Many events in these games don't leave lasting effects. Sure, having to avoid meteors for a minute can be challenging, but the game doesn't really get any harder after it's over. Only certain events stack, meaning the game isn't *as* utterly chaotic as it could be.
 
 In my game, I decided to make *every* event stack. If meteors started to rain down, they'd continue doing so while rays of lightning crash down onto the baseplate and bombs rain down onto the players. I also wanted repeated events to be able to stack, so events could also have "intensity" (a "meteor shower" +1 would be twice as intense as a regular one, and a +2 would be thrice as insane, etc.).
+
+<div align="center">
+    <img src="../assets/showcase1.png" alt="Game image with lots of events" width="800">
+</div>
 
 And, well, that's the game. Surviving a ton of random things coming at you at once. There are, like, at least 50 unique events. A lot of stuff that can happen at once.
 
