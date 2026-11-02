@@ -2,7 +2,7 @@
 
 I used to make tons of ROBLOX games. This is one of them.
 
-The Baseplate is inspired by games like Plates of Fate and Horrific Housing, which I used to play extensively with friends. The general idea behind those games is that of completely random chaos. Every 20 seconds or so, a new "event" is spawned, which spices up the game in some way. Like, an event may cause meteors to rain down, spawn zombies, give everyone weapons, or something harmless like adding party lights to the map. Eventually, the endless barrage of events is meant to make the survivor count slowly dwindle until one person is crowned the winner. Okay, simple.
+*The Baseplate* is inspired by games like *Plates of Fate* and *Horrific Housing*, which I used to play extensively with friends. The general idea behind those games is that of completely random chaos. Every 20 seconds or so, a new "event" is spawned, which spices up the game in some way. Like, an event may cause meteors to rain down, spawn zombies, give everyone weapons, or something harmless like adding party lights to the map. Eventually, the endless barrage of events is meant to make the survivor count slowly dwindle until one person is crowned the winner. Okay, simple.
 
 But I wanted to take that a little further.
 
