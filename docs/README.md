@@ -209,7 +209,7 @@ This event requires the players' health values to be restored once the event end
 If you're more of a visual learner, here's a diagram showing how events work, kind of:
 
 <div align="center">
-    <img src="../assets/flowchart.png" alt="Image of GD" width="600">
+    <img src="../assets/flowchart.png" alt="Flowchart" width="600">
 </div>
 
 ### Maps and Abilities
