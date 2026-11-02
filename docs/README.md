@@ -148,14 +148,14 @@ Here, the `checkExist` function reveals how this system works:
 
 ```luau
 local function checkExist(event, intensity)	
-	if (event ~= nil) then
-		if (event:IsDescendantOf(events)) then
-			if (event.Intensity.Value >= intensity) then
-				return true
-			end
-		end
-	end
-	return false
+  if (event ~= nil) then
+    if (event:IsDescendantOf(events)) then
+      if (event.Intensity.Value >= intensity) then
+        return true
+      end
+    end
+  end
+  return false
 end
 ```
 
