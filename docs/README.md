@@ -1,6 +1,6 @@
 # The Baseplate
 
-I used to make tons of ROBLOX games. This is one of them.
+I used to make tons of ROBLOX games. This is one of them. If you aren't familiar with the platform or think it's childish (won't argue with that, honestly), skip ahead to the asynchronous events and Luau threads... like... the cool stuff.
 
 <div align="center">
     <img src="../assets/showcase0.png" alt="Game image" width="800">
@@ -26,7 +26,7 @@ And, well, that's the game. Surviving a ton of random things coming at you at on
 
 Sure! You can play it <a href="https://www.roblox.com/games/137674317403002/the-baseplate">here</a>, though do keep in mind that this is a ROBLOX game and thus requires a ROBLOX account.
 
-## How does it work?
+## How does it work? *(The fun part.)*
 
 This game heavily leverages `task.spawn` and all those other Luau-thread-related `task` functions. Why? Because I needed a dynamic way to start and stop events, allowing them to run simultaneously and stack over each other.
 
