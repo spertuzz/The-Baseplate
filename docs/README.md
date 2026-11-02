@@ -270,7 +270,7 @@ As you can see, it has a somewhat similar structure where everything is split in
 
 The same goes for gamemodes/maps. Here's an example of one:
 
-```
+```luau
 -- Lightning gamemode; increases event spawning rate to create even more chaos
 ["Lightning"] = {
   ["Name"] = "Lightning",
