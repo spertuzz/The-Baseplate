@@ -297,4 +297,4 @@ The same goes for gamemodes/maps. Here's an example of one:
     <img src="../assets/showcase2.png" alt="Game image" width="800">
 </div>
 
-And, well, that's it. Thanks for taking the time to read through this, if you did; it's nice to see someone appreciate such a niche project. I put a lot of effort into the art, maps, and events, and even if it's a small little thing I made to play with my friends, it's been fun. Thanks!
+And, well, that's it. Thanks for taking the time to read through this, if you did; it's nice to see someone appreciate such a niche project. I put a lot of effort into the art, maps, and events, and even if it's just a thing I made to play with my friends, it's been fun. Thanks!
